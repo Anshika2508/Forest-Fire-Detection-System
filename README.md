@@ -30,7 +30,7 @@ YOLO (You Only Look Once) is a object detection algorithm that detects objects .
 In this project, the YOLOv8 Nano (yolov8n) model is used because it is lightweight and trains quickly while still providing good accuracy.
 
 ## Yolov8n-Layers and Activation Function: 
-- YOLOv8n has around 169 layers, but the count may appear higher when individual operations inside modules like C2f are counted separately.
+- YOLOv8n has 169 layers, but the count may appear higher when individual operations inside modules like C2f are counted separately.
 - It uses the Sigmoid Linear Unit activation function in most layers for learning complex patterns, while a Sigmoid function is used in the final layer to generate probability-based detection outputs.
 
 ## About the Dataset:
