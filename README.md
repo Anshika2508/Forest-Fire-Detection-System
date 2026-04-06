@@ -64,5 +64,5 @@ In this project, the YOLOv8 Nano (yolov8n) model is used because it is lightweig
   
   <img width="345" height="147" alt="image" src="https://github.com/user-attachments/assets/c36ca505-dbae-4533-86b7-d22cc822daef" />
 
-   Final model accuracy was estimated from the overall mAP score and displayed as a percentage which is 78.90% with 150 epochs.
+- Final model accuracy was estimated from the overall mAP score and displayed as a percentage which is 78.90% with 150 epochs.
  
