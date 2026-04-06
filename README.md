@@ -59,7 +59,7 @@ In this project, the YOLOv8 Nano (yolov8n) model is used because it is lightweig
 - The final annotated images were displayed using Matplotlib to visually inspect the model’s detection performance and accuracy.
 - Performance was measured using standard object detection metrics including precision, recall, F1-score, and mean Average Precision (mAP@0.5).
 - Class-wise metrics were calculated separately for fire and smoke to understand how well the model performs on each category and overall average metrics were also computed to provide a summary of the model’s performance.
-- Final model accuracy was estimated from the overall mAP score and displayed as a percentage which is 76.98%
+- Final model accuracy was estimated from the overall mAP score and displayed as a percentage which is 76.98% with 50 epochs.
 
   
   <img width="345" height="147" alt="image" src="https://github.com/user-attachments/assets/c36ca505-dbae-4533-86b7-d22cc822daef" />
